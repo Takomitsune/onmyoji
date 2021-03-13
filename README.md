@@ -21,3 +21,17 @@
 + 3rd Quartile：6
 
 ### 非全图
+
+进行十万次重复计算
+
+结果：
+
++ 抽卡数期望：600.86
++ 中位数：545
++ 1st Quartile： 295
++ 3rd Quartile：828
+
+黑屏数：
++ 中位数：9
++ 1st Quartile： 6
++ 3rd Quartile：12
