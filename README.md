@@ -15,6 +15,9 @@
 + 1st Quartile： 86
 + 3rd Quartile：351
 
-
+黑屏数：
++ 中位数：4
++ 1st Quartile： 3
++ 3rd Quartile：6
 
 ### 非全图
